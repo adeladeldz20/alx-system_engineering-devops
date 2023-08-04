@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:Øupper:]ÙØ]* /Ùtmp/
+mv [ØØ[:Øupper:]]* /Ùtmp/
