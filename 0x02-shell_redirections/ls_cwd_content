@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 root root   253 Aug  7 17:33 .
+drwxr-xr-x 6 root root   140 Aug  7 09:12 ..
+-rwxr--r-- 1 root root    48 Aug  7 17:28 10-no_more_js
+-rwxr--r-- 1 root root    28 Aug  7 09:20 1-confused_smiley
+-rwxr--r-- 1 root root    28 Aug  7 09:22 2-hellofile
+-rwxr--r-- 1 root root    39 Aug  7 09:25 3-twofiles
+-rwxr--r-- 1 root root    34 Aug  7 09:28 4-lastlines
+-rw-r--r-- 1 root root 12288 Aug  7 09:31 .4-lastlines.swp
+-rwxr--r-- 1 root root    33 Aug  7 09:34 5-firstlines
+-rwxr--r-- 1 root root   109 Aug  7 17:31 7-file
+-rw-r--r-- 1 root root    37 Aug  7 17:33 8-cwd_state
+-rwxr--r-- 1 root root    39 Aug  7 17:14 9-duplicate_last_line
+-rw-r--r-- 1 root root     0 Aug  7 17:33 ls_cwd_content
+-rw-r--r-- 1 root root    24 Aug  7 09:12 README.md
